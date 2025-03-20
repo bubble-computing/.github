@@ -4,7 +4,7 @@
 
 <img src="../img/bubble_soldier.jpeg" alt="alt text" style="width:50%;">
 
-Hardware acceleration that blurs the line between P and NP.
+Blurring the lines between P & NP.
 
 </div>
 

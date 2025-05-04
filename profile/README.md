@@ -10,7 +10,6 @@ Blurring the lines between P & NP.
 
 <br>
 
----
 <footer align="center">
   <p>&copy; 2025 bubble computing. All rights reserved.</p>
 </footer>

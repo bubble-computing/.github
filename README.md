@@ -2,7 +2,7 @@
 
 # bubble 🫧 computing 
 
-<img src="img/bubble.jpeg" alt="alt text" style="width:50%;">
+<img src="img/bubble.jpeg" alt="alt text" style="width:100%;">
 
 Hardware acceleration that blurs the line between P and NP.
 

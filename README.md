@@ -4,12 +4,11 @@
 
 <img src="img/bubble.jpeg" alt="alt text" style="width:100%;">
 
-Hardware acceleration that blurs the line between P and NP.
+Blurring the lines between P and NP.
 
 </div>
 
 <br>
-
 ---
 <footer style="text-align: center;">
   <p>
